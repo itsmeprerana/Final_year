@@ -1,0 +1,10 @@
+
+glob2
+librosa
+numpy
+scikit-learn
+tensorflow
+Keras
+pydub
+sounddevice
+Pillow
